@@ -1,0 +1,73 @@
+{
+  "clientes": [
+    {
+      "id": "9531",
+      "nome": "Bruno Carreira",
+      "email": "brunocarreira816@gmail.com",
+      "telefone": "11955550838",
+      "cnpj": "123456789"
+    },
+    {
+      "id": "9ee2",
+      "nome": "Sonia Silva",
+      "email": "ssilva@gmail.com",
+      "telefone": "11997204899",
+      "cnpj": "978632541"
+    },
+    {
+      "id": "e1c5",
+      "nome": "Amanda F. Santos ",
+      "email": "amandasantos@ig.com.br",
+      "telefone": "1129918333",
+      "cnpj": "986532110"
+    },
+    {
+      "id": "c387",
+      "nome": "Albert Einsten",
+      "email": "aeinsten@relatividade.com.br",
+      "telefone": "113146598",
+      "cnpj": "987654310",
+      "senha": "123456"
+    },
+    {
+      "id": "4ad4",
+      "nome": "Nikola Tesla",
+      "email": "ntesla@eletro.com",
+      "telefone": "2165485255",
+      "cnpj": "9874562",
+      "senha": "987654"
+    },
+    {
+      "id": "ee76",
+      "nome": "Stephen W. Hawking",
+      "email": "shawking@space.com",
+      "telefone": "551555825",
+      "cnpj": "987451445",
+      "senha": "123456"
+    },
+    {
+      "id": "6dd4",
+      "nome": "Marie S. Curie",
+      "email": "mariecurie@quimica.com",
+      "telefone": "998564711010",
+      "cnpj": "3215651111",
+      "senha": "654987"
+    },
+    {
+      "id": "f294",
+      "nome": "Charles R. Darwin ",
+      "email": "darwin@hereditario.com.br",
+      "telefone": "32641010",
+      "cnpj": "5461101010",
+      "senha": "654123"
+    },
+    {
+      "id": "49b3",
+      "nome": "Gregor J. Mendel",
+      "email": "gmendel@gene.com",
+      "telefone": "4566635671011",
+      "cnpj": "61445151011",
+      "senha": "987412"
+    }
+  ]
+}
